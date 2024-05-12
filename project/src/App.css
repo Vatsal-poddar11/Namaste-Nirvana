@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.refresh {
+  text-align: center;
+  margin-top: 250px;
+}
+
+.refresh h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.btn-white {
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #333;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.btn-white:hover {
+  background-color: #333;
+  color: #fff;
+}
+
